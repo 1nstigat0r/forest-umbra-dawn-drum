@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "עדכון",
+      "hasCanvas": false,
+      "bodyTextLen": 151,
+      "bodyTextHash": "6036f41c19f4009c09d7dade2e7489d5e3de80aac9b4ef3a1be6b225b41e229b",
+      "bodyTextPrefix": "מבזקים מכין מבזקים בעברית… עדכון מבזק שעתי · מקורות ראשונים רענו",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "עדכון",
+      "hasCanvas": false,
+      "bodyTextLen": 151,
+      "bodyTextHash": "6036f41c19f4009c09d7dade2e7489d5e3de80aac9b4ef3a1be6b225b41e229b",
+      "bodyTextPrefix": "מבזקים מכין מבזקים בעברית… עדכון מבזק שעתי · מקורות ראשונים רענו",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text collapsed (1704 -> 151 chars)",
+    "mobile: body text collapsed (1704 -> 151 chars)"
+  ]
+}

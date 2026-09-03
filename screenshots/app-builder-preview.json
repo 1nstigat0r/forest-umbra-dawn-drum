@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "עדכון",
+      "hasCanvas": false,
+      "bodyTextLen": 3286,
+      "bodyTextHash": "d40ed2e5acecde9c619fc1cccd365f4f0d958ddca9d8a70da977a6c97f812a6e",
+      "bodyTextPrefix": "מבזקים פרס TV מודי נפגש עם נשיא איראן בבישקק וחיזק את הידידות פר",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "עדכון",
+      "hasCanvas": false,
+      "bodyTextLen": 3286,
+      "bodyTextHash": "d40ed2e5acecde9c619fc1cccd365f4f0d958ddca9d8a70da977a6c97f812a6e",
+      "bodyTextPrefix": "מבזקים פרס TV מודי נפגש עם נשיא איראן בבישקק וחיזק את הידידות פר",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
